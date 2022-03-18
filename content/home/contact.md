@@ -27,30 +27,30 @@ content:
   # Contact details (edit or remove options as required)
   email: tm86@hw.ac.uk
   phone: +86 15515093857
-  address:
-    street: 450 Serra Mall
-    city: Singapore
-    region: CA
-    postcode: '94305'
-    country: Singapore
-    country_code: SGP
-  coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-  office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
+  #address:
+    #street: 450 Serra Mall
+    #city: Singapore
+    #region: CA
+    #postcode: '94305'
+    #country: Singapore
+    #country_code: SGP
+  #coordinates:
+    #latitude: '37.4275'
+    #longitude: '-122.1697'
+  #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  #office_hours:
+    #- 'Monday 10:00 to 13:00'
+    #- 'Wednesday 09:00 to 10:00'
+  #appointment_url: 'https://calendly.com'
   contact_links:
     - icon: twitter
       icon_pack: fab
       name: DM Me
       link: 'https://twitter.com/MiaoTianzheng'
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
+    #- icon: video
+     # icon_pack: fas
+      #name: Zoom Me
+      #link: 'https://zoom.com'
 
 design:
   columns: '2'
