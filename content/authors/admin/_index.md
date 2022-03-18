@@ -6,7 +6,7 @@ title: Tianzheng Miao
 superuser: true
 
 # Role/position/tagline
-role: Msc Student of Electrical Engineering Programme
+role: Msc Student of College of Design and Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
