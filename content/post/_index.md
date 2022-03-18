@@ -2,7 +2,7 @@
 title: Posts
 cms_exclude: true
 
-active:false
+active: false
 
 # View.
 #   1 = List
