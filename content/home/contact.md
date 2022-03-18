@@ -25,15 +25,15 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: tm86@hw.ac.uk
+  phone: +86 15515093857
   address:
     street: 450 Serra Mall
-    city: Stanford
+    city: Singapore
     region: CA
     postcode: '94305'
-    country: United States
-    country_code: US
+    country: Singapore
+    country_code: SGP
   coordinates:
     latitude: '37.4275'
     longitude: '-122.1697'
@@ -46,7 +46,7 @@ content:
     - icon: twitter
       icon_pack: fab
       name: DM Me
-      link: 'https://twitter.com/Twitter'
+      link: 'https://twitter.com/MiaoTianzheng'
     - icon: video
       icon_pack: fas
       name: Zoom Me
