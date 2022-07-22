@@ -6,15 +6,15 @@ title: Tianzheng Miao
 superuser: true
 
 # Role/position/tagline
-role: Msc Student of Electrical and Computer Engineering
+role: Mphil Student of School of Science and Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: National University of Singapore
-  url: https://www.nus.edu.sg/
+- name: The Chinese University of Hong Kong, Shenzhen
+  url: https://www.cuhk.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Signal Processing, Wireless Communications.
+bio: My research interests include Signal Processing, Wireless Communications, Intelligent Reflection Surface.
 
 # Interests to show in About widget
 interests:
@@ -25,9 +25,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: MSc in Electrical Engineering
-    institution: National University of Singapore
-    year: 2023
+  - course: Mphil in Computer and Information Engineering
+    institution: The Chinese University of Hong Kong, Shenzhen
+    year: 2024
   - course: BEng in Telecommunication
     institution: Xidian University/Heriot-Watt University
     year: 2022
