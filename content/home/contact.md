@@ -25,7 +25,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: tm86@hw.ac.uk
+  email: tianzheng_m@qq.com
   phone: +86 15515093857
   #address:
     #street: 450 Serra Mall
