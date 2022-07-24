@@ -67,7 +67,7 @@ email: ""
 highlight_name: true
 ---
 
-Miao Tianzheng is a prospective student of Electrical and Computer Science at National Universtiy of Singapore, now he is a fourth year student majored in Telecommunications in Xidian Universtiy. His research interests include signal processing, communication networks.
+Miao Tianzheng is a new Mphil student of school of Computer and Information Engineering in CUHKSZ now. His research interests include signal processing, wireless communications.
 
 "天行健，君子以自强不息"(Just as the celestial bodies never run out of energy to orbit round and round, so should we always strive to better ourselves.)
 
