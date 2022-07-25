@@ -51,7 +51,7 @@ social:
   link: https://github.com/Agata872
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/%E5%A4%A9%E6%AD%A3-%E8%8B%97-8b2979175/
+  link: https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B4VrvXgO9QY6%2Fh5qSYMI%2BBg%3D%3D
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
