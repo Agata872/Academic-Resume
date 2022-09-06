@@ -67,7 +67,7 @@ email: ""
 highlight_name: true
 ---
 
-Miao Tianzheng is a new Mphil student of Computer and Information Engineering in CUHKSZ, supervised by Professor Zhang Rui. His research interests include ISAC, wireless communications.
+Miao Tianzheng is a Mphil student of Computer and Information Engineering in CUHKSZ, supervised by Professor Zhang Rui. His research interests include ISAC, wireless communications.
 
 "天行健，君子以自强不息"(Just as the celestial bodies never run out of energy to orbit round and round, so should we always strive to better ourselves.)
 
