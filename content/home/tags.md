@@ -3,6 +3,8 @@
 # Docs: https://wowchemy.com/docs/page-builder/
 widget: tag_cloud
 
+active: false
+
 # This file represents a page section.
 headless: true
 
@@ -13,7 +15,7 @@ title: Popular Topics
 subtitle: ''
 
 content:
-  # Choose the taxonomy from `config.toml` to display (e.g. tags, categories)
+# Choose the taxonomy from `config.toml` to display (e.g. tags, categories)
   taxonomy: tags
   # Choose how many tags you would like to display (0 = all tags)
   count: 20
